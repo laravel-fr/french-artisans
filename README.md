@@ -27,6 +27,13 @@ Blog communautaire francophone \
 <br />
 <br />
 
+[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/ql.JPG"/>](https://quality-explained.fr/)
+
+[**Quality Explained**](https://quality-explained.fr/) \
+Concepts de qualité appliqués à PHP & Laravel \
+<br />
+<br />
+
 
 [🔼 Revenir en haut](#sommaire)
 
