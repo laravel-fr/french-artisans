@@ -10,7 +10,7 @@ Tu trouveras ici la liste des créateurs qui produisent du contenu autour de not
 
 ## Contribution
 
-Si tu souhaites enrichir cette liste, on t'invite à suivre [le guide de contribution](https://github.com/laravel-fr/awesome-creators/blob/master/CONTRIBUTING.md).
+Si tu souhaites enrichir cette liste, on t'invite à suivre [le guide de contribution](https://github.com/laravel-fr/french-artisans/blob/master/CONTRIBUTING.md).
 
 ## Sommaire
 
