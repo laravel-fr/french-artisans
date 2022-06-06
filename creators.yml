@@ -3,7 +3,11 @@ blogs:
     url: https://laravel-france.com
     description: Blog communautaire francophone
     thumbnail: https://pbs.twimg.com/profile_images/1481320020907073538/7O5hhxRZ_400x400.jpg
-
+  - name: Quality Explained
+    url: https://quality-explained.fr/
+    description: Concepts de qualité appliqués à PHP & Laravel
+    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/ql.JPG
+    
 channels:
 
 events:
