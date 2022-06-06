@@ -1,0 +1,6 @@
+[<img align="left" height="100px" width="100px" alt="creator's avatar" src="{creator.thumbnail}"/>]({creator.url})
+
+[**{creator.name}**]({creator.url}) \
+{creator.description} \
+<br />
+<br />

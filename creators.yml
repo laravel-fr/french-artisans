@@ -1,0 +1,13 @@
+blogs:
+  - name: Laravel France
+    url: https://laravel-france.com
+    description: Blog communautaire francophone
+    thumbnail: https://pbs.twimg.com/profile_images/1481320020907073538/7O5hhxRZ_400x400.jpg
+
+channels:
+
+events:
+  - name: Forum PHP 2022
+    url: https://event.afup.org/
+    description: 13 & 14 octobre à l’hôtel New York – The Art of Marvel à Disneyland Paris
+    thumbnail: https://pbs.twimg.com/profile_images/600291061144145920/Lpf3TDQm_400x400.png

@@ -1,0 +1,37 @@
+<p align="center">
+  <img src="/art/banner.png" alt="Artisans banner">
+</p>
+
+# Salut voyageur 👋
+
+Bienvenue au cœur de la communauté Laravel francophone.
+
+Tu trouveras ici la liste des créateurs qui produisent du contenu autour de notre framework préféré et de son écosystème.
+
+## Contribution
+
+Si tu souhaites enrichir cette liste, on t'invite à suivre [le guide de contribution](https://github.com/laravel-fr/awesome-creators/blob/master/CONTRIBUTING.md).
+
+## Sommaire
+
++ [Blogs](#blog)
++ [Vidéothèque](#vidéothèque)
++ [Événements](#événements)
+
+## Blog
+
+{creators.blogs}
+
+[🔼 Revenir en haut](#sommaire)
+
+## Vidéothèque
+
+{creators.channels}
+
+[🔼 Revenir en haut](#sommaire)
+
+## Événements
+
+{creators.events}
+
+[🔼 Revenir en haut](#sommaire)
