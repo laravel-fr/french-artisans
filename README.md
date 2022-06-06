@@ -18,7 +18,7 @@ Si tu souhaites enrichir cette liste, on t'invite à suivre [le guide de contrib
 + [Vidéothèque](#vidéothèque)
 + [Événements](#événements)
 
-## Blog
+## Blogs
 
 [<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://pbs.twimg.com/profile_images/1481320020907073538/7O5hhxRZ_400x400.jpg"/>](https://laravel-france.com)
 
