@@ -1,4 +1,8 @@
-blogs:
+blogs:  
+  - name: Laravel Cameroun
+    url: https://laravel.cm/
+    description: Communauté des développeurs PHP et Laravel du Cameroun
+    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/laravel_cameroun.jpg
   - name: Laravel France
     url: https://laravel-france.com
     description: Blog communautaire francophone
