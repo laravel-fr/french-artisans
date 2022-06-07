@@ -41,10 +41,17 @@ Blog communautaire francophone \
 <br />
 <br />
 
+[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/laravel_sillo.jpg"/>](https://laravel.sillo.org/)
+
+[**Laravel Sillo**](https://laravel.sillo.org/) \
+Tutoriels sur le Framework Laravel \
+<br />
+<br />
+
 [<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/nord_codeurs.jpg"/>](https://nordcoders.fr/)
 
 [**Nord Coders**](https://nordcoders.fr/) \
-Apprendre le framework PHP Laravel à travers des projets concrets. \
+Apprendre le framework PHP Laravel à travers des projets concrets \
 <br />
 <br />
 
