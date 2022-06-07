@@ -20,6 +20,13 @@ Si tu souhaites enrichir cette liste, on t'invite à suivre [le guide de contrib
 
 ## Blogs
 
+[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/laravel_cameroun.jpg"/>](https://laravel.cm/)
+
+[**Laravel Cameroun**](https://laravel.cm/) \
+Communauté des développeurs PHP et Laravel du Cameroun \
+<br />
+<br />
+
 [<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://pbs.twimg.com/profile_images/1481320020907073538/7O5hhxRZ_400x400.jpg"/>](https://laravel-france.com)
 
 [**Laravel France**](https://laravel-france.com) \
