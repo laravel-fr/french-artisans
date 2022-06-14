@@ -25,7 +25,11 @@ blogs:
     thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/ql.JPG
     
 channels:
-
+  - name: Afup PHP
+    url: https://www.youtube.com/c/afupPHP
+    description: "Les conférences du Forum PHP sur la chaine Youtube de l'Afup"
+    thumbnail: https://yt3.ggpht.com/ytc/AKedOLR2mFqX0_weIJ1rWXKcbzyi4wcLALet2h4NPA2r=s88-c-k-c0x00ffffff-no-rj
+    
 events:
   - name: Forum PHP 2022
     url: https://event.afup.org/
