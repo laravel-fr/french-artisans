@@ -67,7 +67,13 @@ Concepts de qualité appliqués à PHP & Laravel \
 
 ## Vidéothèque
 
-*Appel aux créateurs, on vous garde la place au chaud...*
+[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://yt3.ggpht.com/ytc/AKedOLR2mFqX0_weIJ1rWXKcbzyi4wcLALet2h4NPA2r=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/afupPHP)
+
+[**Afup PHP**](https://www.youtube.com/c/afupPHP) \
+Les conférences du Forum PHP sur la chaine Youtube de l'Afup \
+<br />
+<br />
+
 
 [🔼 Revenir en haut](#sommaire)
 
