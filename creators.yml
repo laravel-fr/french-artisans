@@ -2,36 +2,36 @@ blogs:
   - name: Larabiz
     url: https://larabiz.fr/
     description: Trouvez votre prochain emploi PHP+Laravel
-    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/larabiz.jpg
+    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/larabiz.png
   - name: Laravel Cameroun
     url: https://laravel.cm/
     description: Communauté des développeurs PHP et Laravel du Cameroun
-    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/laravel_cameroun.jpg
+    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/laravel_cameroun.png
   - name: Laravel France
     url: https://laravel-france.com
-    description: Blog communautaire francophone
-    thumbnail: https://pbs.twimg.com/profile_images/1481320020907073538/7O5hhxRZ_400x400.jpg
+    description: Actualités, tutoriels et découvertes autour de Laravel
+    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/laravel_france.png
   - name: Laravel Sillo
     url: https://laravel.sillo.org/
     description: Tutoriels sur le Framework Laravel
-    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/laravel_sillo.jpg
+    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/default.png
   - name: Nord Coders
     url: https://nordcoders.fr/
     description: Apprendre le framework PHP Laravel à travers des projets concrets
-    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/nord_codeurs.jpg
+    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/nord_coders.png
   - name: Quality Explained
     url: https://quality-explained.fr/
     description: Concepts de qualité appliqués à PHP & Laravel
-    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/ql.JPG
+    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/quality_explained.png
     
 channels:
   - name: Afup PHP
     url: https://www.youtube.com/c/afupPHP
     description: "Les conférences du Forum PHP sur la chaine Youtube de l'Afup"
-    thumbnail: https://yt3.ggpht.com/ytc/AKedOLR2mFqX0_weIJ1rWXKcbzyi4wcLALet2h4NPA2r=s88-c-k-c0x00ffffff-no-rj
+    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/afup.png
     
 events:
   - name: Forum PHP 2022
     url: https://event.afup.org/
     description: 13 & 14 octobre à l’hôtel New York – The Art of Marvel à Disneyland Paris
-    thumbnail: https://pbs.twimg.com/profile_images/600291061144145920/Lpf3TDQm_400x400.png
+    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/afup.png
