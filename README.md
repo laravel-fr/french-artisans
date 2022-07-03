@@ -6,7 +6,7 @@
 
 Bienvenue au cœur de la communauté Laravel francophone.
 
-Tu trouveras ici la liste des créateurs qui produisent du contenu autour de notre framework préféré et de son écosystème.
+Tu trouveras ici les créateurs qui produisent du contenu autour de notre framework préféré et de son écosystème.
 
 ## Contribution
 
@@ -20,42 +20,42 @@ Si tu souhaites enrichir cette liste, on t'invite à suivre [le guide de contrib
 
 ## Blogs
 
-[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/larabiz.jpg"/>](https://larabiz.fr/)
+[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/larabiz.png"/>](https://larabiz.fr/)
 
 [**Larabiz**](https://larabiz.fr/) \
 Trouvez votre prochain emploi PHP+Laravel \
 <br />
 <br />
 
-[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/laravel_cameroun.jpg"/>](https://laravel.cm/)
+[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/laravel_cameroun.png"/>](https://laravel.cm/)
 
 [**Laravel Cameroun**](https://laravel.cm/) \
 Communauté des développeurs PHP et Laravel du Cameroun \
 <br />
 <br />
 
-[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://pbs.twimg.com/profile_images/1481320020907073538/7O5hhxRZ_400x400.jpg"/>](https://laravel-france.com)
+[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/laravel_france.png"/>](https://laravel-france.com)
 
 [**Laravel France**](https://laravel-france.com) \
-Blog communautaire francophone \
+Actualités, tutoriels et découvertes autour de Laravel \
 <br />
 <br />
 
-[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/laravel_sillo.jpg"/>](https://laravel.sillo.org/)
+[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/default.png"/>](https://laravel.sillo.org/)
 
 [**Laravel Sillo**](https://laravel.sillo.org/) \
 Tutoriels sur le Framework Laravel \
 <br />
 <br />
 
-[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/nord_codeurs.jpg"/>](https://nordcoders.fr/)
+[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/nord_coders.png"/>](https://nordcoders.fr/)
 
 [**Nord Coders**](https://nordcoders.fr/) \
 Apprendre le framework PHP Laravel à travers des projets concrets \
 <br />
 <br />
 
-[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/ql.JPG"/>](https://quality-explained.fr/)
+[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/quality_explained.png"/>](https://quality-explained.fr/)
 
 [**Quality Explained**](https://quality-explained.fr/) \
 Concepts de qualité appliqués à PHP & Laravel \
@@ -67,7 +67,7 @@ Concepts de qualité appliqués à PHP & Laravel \
 
 ## Vidéothèque
 
-[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://yt3.ggpht.com/ytc/AKedOLR2mFqX0_weIJ1rWXKcbzyi4wcLALet2h4NPA2r=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/afupPHP)
+[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/afup.png"/>](https://www.youtube.com/c/afupPHP)
 
 [**Afup PHP**](https://www.youtube.com/c/afupPHP) \
 Les conférences du Forum PHP sur la chaine Youtube de l'Afup \
@@ -79,7 +79,7 @@ Les conférences du Forum PHP sur la chaine Youtube de l'Afup \
 
 ## Événements
 
-[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://pbs.twimg.com/profile_images/600291061144145920/Lpf3TDQm_400x400.png"/>](https://event.afup.org/)
+[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/afup.png"/>](https://event.afup.org/)
 
 [**Forum PHP 2022**](https://event.afup.org/) \
 13 & 14 octobre à l’hôtel New York – The Art of Marvel à Disneyland Paris \
