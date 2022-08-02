@@ -23,6 +23,10 @@ blogs:
     url: https://quality-explained.fr/
     description: Concepts de qualité appliqués à PHP & Laravel
     thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/quality_explained.png
+  - name: Formations HappyToDev
+    url: https://happytodev.itanea.fr/
+    description: Des formations gratuites et payantes sur l'écosystème de Laravel
+    thumbnail: https://itanea.fr/happytodev_formation.webp    
     
 channels:
   - name: Afup PHP
@@ -33,6 +37,11 @@ channels:
     url: https://www.twitch.tv/rachids_ca
     description: Viens chiller avec moi, on fait du Laravel, du TailwindCSS et du Vue.js.
     thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/rachids.png
+  - name: HappyToDev
+    url: https://www.youtube.com/happytodev
+    description: Je te parle développement web en général mais plus précisément et essentiellement de Laravel.
+    thumbnail: https://itanea.fr/happytodev_resultat.webp
+    
 
 events:
   - name: Forum PHP 2022
