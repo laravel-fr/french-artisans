@@ -62,6 +62,13 @@ Concepts de qualité appliqués à PHP & Laravel \
 <br />
 <br />
 
+[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://itanea.fr/happytodev_formation.webp"/>](https://happytodev.itanea.fr/)
+
+[**Formations HappyToDev**](https://happytodev.itanea.fr/) \
+Des formations gratuites et payantes sur l'écosystème de Laravel \
+<br />
+<br />
+
 
 [🔼 Revenir en haut](#sommaire)
 
@@ -78,6 +85,13 @@ Les conférences du Forum PHP sur la chaine Youtube de l'Afup \
 
 [**Rachids**](https://www.twitch.tv/rachids_ca) \
 Viens chiller avec moi, on fait du Laravel, du TailwindCSS et du Vue.js. \
+<br />
+<br />
+
+[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://itanea.fr/happytodev_resultat.webp"/>](https://www.youtube.com/happytodev)
+
+[**HappyToDev**](https://www.youtube.com/happytodev) \
+Je te parle développement web en général mais plus précisément et essentiellement de Laravel. \
 <br />
 <br />
 
