@@ -95,8 +95,8 @@ Je te parle développement web en général mais plus précisément et essentiel
 
 [<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/afup.png"/>](https://event.afup.org/)
 
-[**Forum PHP 2022**](https://event.afup.org/) \
-13 & 14 octobre à l’hôtel New York – The Art of Marvel à Disneyland Paris \
+[**AFUP Day 2023**](https://event.afup.org/) \
+vendredi 12 mai à Lille & Lyon \
 <br />
 <br />
 
