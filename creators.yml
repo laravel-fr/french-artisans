@@ -40,7 +40,7 @@ channels:
     
 
 events:
-  - name: Forum PHP 2022
+  - name: AFUP Day 2023
     url: https://event.afup.org/
-    description: 13 & 14 octobre à l’hôtel New York – The Art of Marvel à Disneyland Paris
+    description: vendredi 12 mai à Lille & Lyon
     thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/afup.png
