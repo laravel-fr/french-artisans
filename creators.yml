@@ -1,8 +1,4 @@
-blogs:  
-  - name: Larabiz
-    url: https://larabiz.fr/
-    description: Trouvez votre prochain emploi PHP+Laravel
-    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/larabiz.png
+blogs:
   - name: Laravel Cameroun
     url: https://laravel.cm/
     description: Communauté des développeurs PHP et Laravel du Cameroun
