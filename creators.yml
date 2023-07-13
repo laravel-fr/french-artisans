@@ -25,10 +25,6 @@ channels:
     url: https://www.youtube.com/c/afupPHP
     description: Les conférences du Forum PHP sur la chaine Youtube de l'Afup
     thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/afup.png
-  - name: Rachids
-    url: https://www.twitch.tv/rachids_ca
-    description: Viens chiller avec moi, on fait du Laravel, du TailwindCSS et du Vue.js.
-    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/rachids.png
   - name: HappyToDev
     url: https://www.youtube.com/happytodev
     description: Je te parle développement web en général mais plus précisément et essentiellement de Laravel.
