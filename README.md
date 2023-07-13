@@ -67,13 +67,6 @@ Les conférences du Forum PHP sur la chaine Youtube de l'Afup \
 <br />
 <br />
 
-[<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/rachids.png"/>](https://www.twitch.tv/rachids_ca)
-
-[**Rachids**](https://www.twitch.tv/rachids_ca) \
-Viens chiller avec moi, on fait du Laravel, du TailwindCSS et du Vue.js. \
-<br />
-<br />
-
 [<img align="left" height="100px" width="100px" alt="creator's avatar" src="https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/happytodev_resultat.webp"/>](https://www.youtube.com/happytodev)
 
 [**HappyToDev**](https://www.youtube.com/happytodev) \
