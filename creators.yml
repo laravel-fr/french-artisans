@@ -2,36 +2,36 @@ blogs:
   - name: Laravel Cameroun
     url: https://laravel.cm/
     description: Communauté des développeurs PHP et Laravel du Cameroun
-    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/laravel_cameroun.png
+    thumbnail: https://cdn.laravel-france.com/images/creators/e33f3d8c-e118-45d9-8ad1-76fcbf42935e.png
   - name: Laravel Sillo
     url: https://laravel.sillo.org/
     description: Tutoriels sur le Framework Laravel
-    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/default.png
+    thumbnail: https://cdn.laravel-france.com/images/creators/5cba8e42-11e7-4f43-8d67-d97f61b93065.png
   - name: The Readability Way
     url: https://php-the-readability-way.fr/
     description: Concepts de qualité appliqués à PHP & Laravel
-    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/default.png
+    thumbnail: https://cdn.laravel-france.com/images/creators/5cba8e42-11e7-4f43-8d67-d97f61b93065.png
   - name: Formations HappyToDev
     url: https://happytodev.itanea.fr/
     description: Des formations gratuites et payantes sur l'écosystème de Laravel
-    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/happytodev_formation.webp
+    thumbnail: https://cdn.laravel-france.com/images/creators/d02f492a-12c4-4267-961f-2079ed84339d.webp
     
 channels:
   - name: Laravel Jutsu
     url: https://www.youtube.com/@LaravelJutsu
     description: Votre dojo du code pour maîtriser Laravel et Vue
-    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/laravel_jutsu.jpg
+    thumbnail: https://cdn.laravel-france.com/images/creators/0f536272-9b61-4a7f-ae12-90f9f9d2aabf.jpg
   - name: Afup PHP
     url: https://www.youtube.com/c/afupPHP
     description: Les conférences du Forum PHP sur la chaine Youtube de l'Afup
-    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/afup.png
+    thumbnail: https://cdn.laravel-france.com/images/creators/307dcd20-8a27-4063-9874-60458cfb8dcd.png
   - name: HappyToDev
     url: https://www.youtube.com/happytodev
     description: Je te parle développement web en général mais plus précisément et essentiellement de Laravel.
-    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/happytodev_resultat.webp
+    thumbnail: https://cdn.laravel-france.com/images/creators/2074fe1d-e42f-4e04-ab6c-1a386699d20e.webp
 
 events:
   - name: Forum PHP 2023
     url: https://event.afup.org/
     description: 12 & 13 octobre, Hotel New York - The Art of Marvel, Disneyland Paris
-    thumbnail: https://storage.gra.cloud.ovh.net/v1/AUTH_f1fd1bcd6379479d9bb2b5f556ae7106/blog/creators/afup.png
+    thumbnail: https://cdn.laravel-france.com/images/creators/307dcd20-8a27-4063-9874-60458cfb8dcd.png
